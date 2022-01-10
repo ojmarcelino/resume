@@ -129,3 +129,4 @@ Project planning of a knowledge transfer process mapping model.
 #### Bachelor in Information Systems
 
 Modeling and documentation of the deployment methodology of supply chain integration services, applying the concepts of B2B, B2C in an interoperability environment and several technological stacks.
+ 
