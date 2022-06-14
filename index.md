@@ -1,5 +1,9 @@
 # Juliano Daniel Marcelino
 
+## Personality Traits
+
+<img src="personality_traits.svg"/>
+
 ## **#Experience**
 
 ### :date: 02/13 - ongoing 🎓 Uniasselvi Group
