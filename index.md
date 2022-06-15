@@ -2,7 +2,7 @@
 
 ## Personality Traits
 
-<img src="personality_traits.svg"/>
+![Personality Traits](personality_traits.svg "Personality Traits")
 
 ## **#Experience**
 
